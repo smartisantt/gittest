@@ -1,5 +1,5 @@
 aaa
-<<<<<<< HEAD
+remotebranch  add  this line
 Beijing has duck 
 Beijing has Tiananmeng
 
